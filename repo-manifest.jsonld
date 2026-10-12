@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PyCQA/mccabe/commit/292b5c71c3fe5496771b46ac9d86361c9b760d17",
       "git:hexsha": "292b5c71c3fe5496771b46ac9d86361c9b760d17",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PyCQA/mccabe/commit/4c326ed876b4a3046d1f2521c61b1d29d7633cd6",
