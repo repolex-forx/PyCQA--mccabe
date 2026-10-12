@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "PyCQA",
+  "repo": "mccabe",
+  "versions": [
+    {
+      "commit": "292b5c71c3fe5496771b46ac9d86361c9b760d17",
+      "parsed_at": "2026-10-12T22:38:10.646337+00:00",
+      "filetree": "filetree/292b5c71c3fe5496771b46ac9d86361c9b760d17.nq.gz",
+      "blobs": [
+        "blob/cc10d7c1fd54e4513dbdd6edc68373268e75b821.nq.gz",
+        "blob/a2bd6db0e89e70eaddc3dac548b995ec834d0897.nq.gz",
+        "blob/5864ba48fd34e9e2f72bd874adba286535e14bc2.nq.gz",
+        "blob/9092497064116d30072d96edb7d67ca34054ef14.nq.gz",
+        "blob/ed8a958e0a8da154b0db9b1edca6e47e5dae146a.nq.gz",
+        "blob/0a584e05b08039e3b75b6fc223c9a33009a56115.nq.gz",
+        "blob/4ddce38aaf4f4e26492e22a0fcba59e909a55699.nq.gz",
+        "blob/041ce5007156d76c86f9b9d9a9a540f307d86a37.nq.gz",
+        "blob/c0de7f55a6933bc50e4b8f696e2ff8d9480112f0.nq.gz",
+        "blob/8fd356e83a1edda3750e85a91b79fbfa1ca3d5e9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
