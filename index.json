@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "mccabe",
+  "versions": [
+    {
+      "commit": "292b5c71c3fe5496771b46ac9d86361c9b760d17",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:40:24.306647+00:00"
+    }
+  ]
+}
